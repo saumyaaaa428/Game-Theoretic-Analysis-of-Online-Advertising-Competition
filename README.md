@@ -22,7 +22,7 @@ This project implements a $2 \times 2$ strategic game model simulating two compe
 
 ## 📊 Theoretical Background & Payoff Matrix
 
-The model considers two players—**Advertiser A** and **Advertiser B**—each choosing between two strategies: **Low Investment** ($L$) or **High Investment** ($H$)[cite: 1].
+The model considers two players—**Advertiser A** and **Advertiser B**—each choosing between two strategies: **Low Investment** ($L$) or **High Investment** ($H$).
 
 | Advertiser A / B | B: Low Investment | B: High Investment |
 | :--- | :--- | :--- |
